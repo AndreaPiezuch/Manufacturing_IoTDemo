@@ -18,4 +18,4 @@ applications:
   - IndustrialNodeRed-cloudantNoSQLDB
   - IndustrialNodeRed-iotf-service
   env:
-  - NODE_RED_STORAGE_NAME: IndustrialNodeRed-cloudantNoSQLDB
+    NODE_RED_STORAGE_NAME: IndustrialNodeRed-cloudantNoSQLDB
